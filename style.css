@@ -27,13 +27,14 @@ p{
     font-weight: 400;
 }
 button{
-    padding: 13px 50px;
+    padding: 8px 35px;
     margin-top: 25px;
     border: none;
     background-color: white;
     border-radius: 20px;
     color: hsl(257, 40%, 49%);
     font-size: 18px;
+    box-shadow: 0px 3px 10px 0px rgba(36,26,29,1);
 }
 .container{
     width: 85%;
